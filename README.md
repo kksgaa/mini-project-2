@@ -10,7 +10,7 @@ Tema : Rental Kostum Cosplay
 
 # flowchart 
 
-<img width="806" alt="flowchart ddp" src="https://github.com/user-attachments/assets/0cd25550-2e3a-457f-8a12-cb9c59f89900">
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/5bb8b8ac-e32f-43d3-90dc-df56ff24ce7d">
 
 Gambar di atas adalah flowchart dari program yang saya buat
 
