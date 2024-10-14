@@ -38,35 +38,35 @@ Setelah berhasil login sebagai admin, program menampilkan MENU ADMIN dengan bebe
 
 # 1. tambahkan kostum
 
-<img width="207" alt="admin 1 1" src="https://github.com/user-attachments/assets/e2e16ee0-c965-46a0-85e9-68a5dbd49131">
+<img width="208" alt="image" src="https://github.com/user-attachments/assets/27b61c3b-8762-44b0-8e23-10e9c95cee6b">
 
 Admin diminta memasukkan nama dan harga kostum. Setelah ditambahkan, pesan "Kostum berhasil ditambahkan" ditampilkan
 
 # 2. lihat kostum
 
-<img width="221" alt="admin 2" src="https://github.com/user-attachments/assets/6b6a8005-c12d-44f8-ac87-7305a66b3029">
+<img width="214" alt="image" src="https://github.com/user-attachments/assets/ef0149e2-f871-4273-9555-a375dfeffee4">
 
-Menampilkan tabel dengan semua kostum yang sudah ditambahkan, menggunakan prettytable. Kolomnya terdiri dari ID, Nama Kostum, dan Harga Sewa
+Menampilkan tabel dengan semua kostum yang sudah ditambahkan, menggunakan prettytable. Kolomnya terdiri dari NO, Nama Kostum, dan Harga Sewa
 
 # 3. update kostum
 
-<img width="306" alt="admin 3 2" src="https://github.com/user-attachments/assets/be8ad7ab-a7db-407c-9420-f50f994502ab">
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/ff7f9a18-751e-4156-bf90-ea4237d0629b">
 
-Admin diminta memilih ID kostum yang ingin diubah, lalu bisa mengedit nama dan harga kostum tersebut. Jika ID valid, maka pesan "Kostum berhasil diupdate" akan ditampilkan.
+Admin diminta memilih NO kostum yang ingin diubah, lalu bisa mengedit nama dan harga kostum tersebut. Jika NO valid, maka pesan "Kostum berhasil diupdate" akan ditampilkan.
 
-<img width="240" alt="image" src="https://github.com/user-attachments/assets/cbe23200-1f20-4177-8799-0f1875a91d92">
+<img width="236" alt="admin 3 salah" src="https://github.com/user-attachments/assets/e9872395-ab11-44cc-be6a-0bf1eabe6f07">
 
-Jika ID tidak ditemukan, akan muncul pesan "Kostum tidak ditemukan".
+Jika NO tidak ditemukan, akan muncul pesan "Kostum tidak ditemukan".
 
 # 4. hapus kostum
 
-<img width="233" alt="admin 4 2" src="https://github.com/user-attachments/assets/355be6c2-d80e-424b-b6f4-2c67a5e110c1">
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/60d20a0b-efe2-42d8-a94c-57c71bf7a1b9">
 
-Admin diminta memilih ID kostum yang ingin dihapus. Jika ID valid, maka pesan "Kostum berhasil dihapus" akan ditampilkan.
+Admin diminta memilih NO kostum yang ingin dihapus. Jika NO valid, maka pesan "Kostum berhasil dihapus" akan ditampilkan.
 
-<img width="248" alt="admin 4 3" src="https://github.com/user-attachments/assets/f5f9840b-2b16-45ef-8f94-ec2ae1a8c289">
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/f7e7b352-e1cd-461f-a344-4114cc6ca28e">
 
-Jika ID tidak valid, pesan "Kostum tidak ditemukan" akan ditampilkan.
+Jika NO tidak valid, pesan "Kostum tidak ditemukan" akan ditampilkan.
 
 # 5. logout
 
@@ -82,9 +82,9 @@ Setelah login sebagai pembeli, program menampilkan MENU PEMBELI dan menampilkan 
 
 # 1. sewa kostum
 
-<img width="223" alt="image" src="https://github.com/user-attachments/assets/ad444113-db0a-40f0-9a7d-ba886fd2a1c8">
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/cc45ab78-488f-414a-8039-41f7dacd8cab">
 
-Pembeli dapat melihat daftar kostum, kemudian memilih ID kostum yang ingin disewa. untuk saat ini, pembeli belum bisa menyewa kostum karna belum ada kostum yang tersedia (konon katanya sampai sekarang praktikan masih mencari cara memperbaiki code bagian ini).
+Pembeli dapat melihat daftar kostum, kemudian memilih NO kostum yang ingin disewa. untuk saat ini, pembeli belum bisa menyewa kostum karna belum ada kostum yang tersedia (konon katanya,sampai sekarang praktikan masih mencari cara memperbaiki code bagian ini).
 
 # 2. logout
 
