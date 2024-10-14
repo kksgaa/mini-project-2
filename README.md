@@ -46,13 +46,13 @@ Admin diminta memasukkan nama dan harga kostum. Setelah ditambahkan, pesan "Kost
 
 <img width="221" alt="admin 2" src="https://github.com/user-attachments/assets/6b6a8005-c12d-44f8-ac87-7305a66b3029">
 
-Menampilkan tabel dengan semua kostum yang sudah ditambahkan, menggunakan PrettyTable. Kolomnya terdiri dari ID, Nama Kostum, dan Harga Sewa
+Menampilkan tabel dengan semua kostum yang sudah ditambahkan, menggunakan prettytable. Kolomnya terdiri dari ID, Nama Kostum, dan Harga Sewa
 
 # 3. update kostum
 
 <img width="306" alt="admin 3 2" src="https://github.com/user-attachments/assets/be8ad7ab-a7db-407c-9420-f50f994502ab">
 
-Admin diminta memilih ID kostum yang ingin diubah, lalu bisa mengedit nama dan harga kostum tersebut. Jika ID valid, maka pesan "Kostum berhasil diupdate" ditampilkan.
+Admin diminta memilih ID kostum yang ingin diubah, lalu bisa mengedit nama dan harga kostum tersebut. Jika ID valid, maka pesan "Kostum berhasil diupdate" akan ditampilkan.
 
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/cbe23200-1f20-4177-8799-0f1875a91d92">
 
@@ -62,17 +62,17 @@ Jika ID tidak ditemukan, akan muncul pesan "Kostum tidak ditemukan".
 
 <img width="233" alt="admin 4 2" src="https://github.com/user-attachments/assets/355be6c2-d80e-424b-b6f4-2c67a5e110c1">
 
-Admin diminta memilih ID kostum yang ingin dihapus. Jika ID valid, maka pesan "Kostum berhasil dihapus" ditampilkan.
+Admin diminta memilih ID kostum yang ingin dihapus. Jika ID valid, maka pesan "Kostum berhasil dihapus" akan ditampilkan.
 
 <img width="248" alt="admin 4 3" src="https://github.com/user-attachments/assets/f5f9840b-2b16-45ef-8f94-ec2ae1a8c289">
 
-Jika ID tidak valid, pesan "Kostum tidak ditemukan" ditampilkan.
+Jika ID tidak valid, pesan "Kostum tidak ditemukan" akan ditampilkan.
 
 # 5. logout
 
 <img width="129" alt="image" src="https://github.com/user-attachments/assets/2c21ad98-8351-4514-8456-35e473eb5ab1">
 
-Admin keluar dari menu dan pesan "anda telah logout" ditampilkan.
+Admin keluar dari menu dan pesan "anda telah logout" akan ditampilkan.
 
 # menu pembeli
 
@@ -84,10 +84,10 @@ Setelah login sebagai pembeli, program menampilkan MENU PEMBELI dan menampilkan 
 
 <img width="223" alt="image" src="https://github.com/user-attachments/assets/ad444113-db0a-40f0-9a7d-ba886fd2a1c8">
 
-Pembeli dapat melihat daftar kostum, kemudian memilih ID kostum yang ingin disewa. untuk saat ini pembeli belum bisa menyewa kostum karna belum ada kostum yang tersedia (konon katanya sampai sekarang praktikan masih mencari cara memperbaiki code bagian ini).
+Pembeli dapat melihat daftar kostum, kemudian memilih ID kostum yang ingin disewa. untuk saat ini, pembeli belum bisa menyewa kostum karna belum ada kostum yang tersedia (konon katanya sampai sekarang praktikan masih mencari cara memperbaiki code bagian ini).
 
 # 2. logout
 
 <img width="124" alt="image" src="https://github.com/user-attachments/assets/8467396c-b844-4187-bd6a-ff3a5a68d48d">
 
-Pembeli keluar dari menu dan pesan "anda telah logout" ditampilkan.
+Pembeli keluar dari menu dan pesan "anda telah logout" akan ditampilkan.
